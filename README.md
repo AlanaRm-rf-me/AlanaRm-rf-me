@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Alana!!
-- 👀 I’m interested in Social Sciences/Services, DevSecOps, Python 
+- 👋 Hi, I’m Alana, CEO and Founder of Alinuxa.
+- 👀 I'm interested in investigation and analysis of threats to protect open source, but the wider pipe line of development. 
 - 🌱 I’m currently learning how to adult
-- 💞️ I’m looking to collaborate on really  anything within my scope!!
-- 📫 How to reach me Yell extremely loud
+- 💞️ I’m looking to broaden security across open source projects.
+- 📫 How to reach me: Corporate@Alinuxa.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love tuwtles
+- ⚡ Fun fact: If I forked your repo, you likely are a naughty naughty dev. 
 
 <!---
 AlanaRm-rf-me/AlanaRm-rf-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
